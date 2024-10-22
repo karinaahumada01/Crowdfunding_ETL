@@ -78,3 +78,13 @@ This project demonstrates the creation of an ETL (Extract, Transform, Load) pipe
 ### Verification:
 
 - Query the tables using SELECT * to validate the data load.
+
+##References
+
+ChatGPT was used for README outline and format, and troubleshooting errors for this project assignment.
+
+- OpenAI. (October, 2024). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/
+
+Xpert Learning Assistant was used for troubleshooting errors for this project assignment.
+
+- Xpert Learning Assistant. (2024). Retrieved from https://bootcampspot.instructure.com/
