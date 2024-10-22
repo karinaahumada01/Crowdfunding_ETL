@@ -6,9 +6,9 @@ This project demonstrates the creation of an ETL (Extract, Transform, Load) pipe
 
 ## Objective
 
-### - Extract data from given datasets (CSV and Excel files).
-### - Transform the data to align with project requirements by cleaning, formatting, and restructuring.
-### - Load the transformed data into a PostgreSQL database with proper schema design and relationships between tables.
+- Extract data from given datasets (CSV and Excel files).
+- Transform the data to align with project requirements by cleaning, formatting, and restructuring.
+- Load the transformed data into a PostgreSQL database with proper schema design and relationships between tables.
 
 ## Project Structure
 
